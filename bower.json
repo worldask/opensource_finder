@@ -1,0 +1,16 @@
+{
+  "name": "opensource_finder",
+  "version": "0.0.0",
+  "homepage": "https://github.com/worldask/opensource_finder",
+  "authors": [
+    "worldask"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
